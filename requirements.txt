@@ -1,7 +1,7 @@
-numpy
 pandas
-seaborn
-matplotlib
+numpy
 scikit-learn
 catboost
-#-e .
+xgboost
+dill
+optuna
